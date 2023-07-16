@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mr. Assk</h1>
 <h3 align="center">I'm only a student...</h3>
 
-<p align="left"> <a href="https://twitter.com/by_asssk" target="blank"><img src="https://img.shields.io/twitter/follow/by_asssk?logo=twitter&style=for-the-badge" alt="by_asssk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/by_asssk" target="blank"><img src="https://img.shields.io/twitter/follow/by_Asssk?logo=twitter&style=for-the-badge" alt="by_Asssk" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mrask.github.io](https://mrask.github.io)
+- 👨‍💻 All of my projects are available at [https://mrassk.github.io](https://mrassk.github.io)
 
 - 📫 How to reach me **https://assk.netlify.app/en**
 
